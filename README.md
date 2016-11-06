@@ -2,7 +2,7 @@
 my first hello world project using git
 
 
-Here are some files, that I am learning how to use 
+deleting this line and replaced with this one
 
 
 Updating the readme in the "edits" branch
